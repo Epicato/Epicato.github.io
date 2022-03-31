@@ -36,7 +36,7 @@ Here are my research experience:
 
 Course Projects
 ======
-* Conquering the Dark Nights with Machine Learning [[Project]](https://github.com/Epicato/lux-AI)
+* Conquering the Dark Nights with Machine Learning(Lux AI Challenge) [[Project]](https://github.com/Epicato/lux-AI)
 * Multiple Sequence Alignment [[Project]](https://github.com/Epicato/MSA)
 * Isomorphic Tree Visualizer [[Project]](https://github.com/Epicato/Isomorphic-Tree-Visualizer)
 

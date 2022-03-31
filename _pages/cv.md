@@ -26,7 +26,7 @@ Honors
 
 Research
 ======
-Currently, I'm doing research at [MVIG Lab](https://mvig.sjtu.edu.cn/research/index.html), supervised by Professor [Cewu Lu](https://mvig.sjtu.edu.cn)
+Currently, I'm doing research at [MVIG Lab](https://mvig.sjtu.edu.cn/research/index.html), supervised by Professor [Cewu Lu](https://mvig.sjtu.edu.cn)  
 My research interests lie in Robotics, Human-machine Interaction, Vision, Reinforcement Learning  
 I hope to build machines that can help people both physically and mentally.  
 Here are my research experience:  
